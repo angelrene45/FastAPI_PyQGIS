@@ -1,7 +1,10 @@
 # FastApi PyQGIS App
 
 ## Instrucciones
-* Abrir el cmd y ejecutar el archivo bat "C:\\Program Files\\QGIS 3.22.10\\bin\\python-qgis-ltr-processing.bat"
+* Abrir el cmd y ejecutar el archivo bat
+```cmd
+    "C:\\Program Files\\QGIS 3.22.10\\bin\\python-qgis-ltr-processing.bat"
+```
 * Instalar la libreria de fast api con sus dependencias
 ```python
     python -m pip install "fastapi[all]"
